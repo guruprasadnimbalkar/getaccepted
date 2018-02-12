@@ -8,6 +8,7 @@ end
 #-------------------------------------------------------
 
 gem 'listen'
+gem 'devise'
 
 #-------------------------------------------------------
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
